@@ -1,2 +1,2 @@
 # python-learning-projects
-Learning Python through GeekForGeeks Projects
+Learning Python through Projects
